@@ -104,7 +104,8 @@ This analysis can be extended or adapted for:
 
 - IBM for the open dataset
 - scikit-learn and SHAP contributors
-- This project was created by [Your Name] as part of a data science and analytics portfolio.
+- Claude and ChatGPT for Resource Development
+- This project was created by Soumya Ranjan Mishra as part of a data science and analytics portfolio.
 
 ---
 
